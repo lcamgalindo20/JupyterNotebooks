@@ -1,3 +1,3 @@
 # JupyterNotebooks
 
-Trying out mu jupyter notebook
+Trying out my jupyter notebook
